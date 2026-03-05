@@ -40,3 +40,7 @@ Thumbs.db
 .actrc*
 
 __pycache__/
+
+# Node.js
+node_modules/
+node-app/frontend/dist/
